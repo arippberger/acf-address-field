@@ -11,7 +11,6 @@
 * License:     Modified BSD
 */
 ?>
-
 <?php
 /*
  * Copyright (c) 2012, CAMPUS CRUSADE FOR CHRIST
