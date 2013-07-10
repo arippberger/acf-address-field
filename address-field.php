@@ -1,11 +1,11 @@
 <?php
 /*
-* Plugin Name: Advanced Custom Fields - Address Field add-on
+* Plugin Name: Advanced Custom Fields - Address Field ACF4 add-on
 * Plugin URI:  https://github.com/GCX/acf-address-field
 * Description: Adds an Address Field to Advanced Custom Fields. Pick and choose the components and layout of the address.
 * Author:      Brian Zoetewey
 * Author URI:  https://github.com/GCX
-* Version:     1.0.1
+* Version:     1.0.2
 * Text Domain: acf-address-field
 * Domain Path: /languages/
 * License:     Modified BSD
