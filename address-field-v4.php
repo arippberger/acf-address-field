@@ -8,7 +8,8 @@
  * individual components and the layout of the address block.
  *
  * @author Brian Zoetewey <brian.zoetewey@ccci.org>
- * @version 1.0.2
+ * @version 1.0.3
+ * @modified by Alec Rippberger <arippberger@gmail.com>
  */
 
 class acf_field_address extends acf_field {
@@ -38,7 +39,7 @@ class acf_field_address extends acf_field {
 
 		$this->name  = 'address-field';
 		$this->label = __( 'Address', $this->l10n_domain );
-		$this->category = __( 'Layout', 'acf' );
+		$this->category = __( 'Basic', 'acf' );
 
 		$this->base_uri_abs = plugin_dir_url( __FILE__ );
 
