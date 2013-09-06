@@ -9,7 +9,8 @@
  *
  * @author Brian Zoetewey <brian.zoetewey@ccci.org>
  * @version 1.0.3
- * @modified by Alec Rippberger <arippberger@gmail.com>
+ *
+ * modified by Alec Rippberger <arippberger@gmail.com>
  */
 
 class acf_field_address extends acf_field {
